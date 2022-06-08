@@ -1,0 +1,17 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "main": "cookies.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon cookies.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
